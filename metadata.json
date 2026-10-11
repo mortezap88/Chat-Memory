@@ -1,0 +1,6 @@
+{
+  "name": "StreamChat",
+  "description": "Minimalist page-based AI chat with token streaming, custom integrated virtual keyboard, hold-to-record voice input, and multi-key API failover.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
